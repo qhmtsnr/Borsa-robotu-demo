@@ -1,7 +1,6 @@
 import streamlit as st
 import yfinance as yf
 import pandas as pd
-import pandas_ta as ta
 
 st.set_page_config(page_title="BIST YZ Terminali", layout="wide")
 st.title("BIST Otomatik Tarama ve Sinyal Terminali")
